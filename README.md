@@ -1,142 +1,37 @@
-Contribution: 2021-11-17 19:00
+### PiggyBank Smart Contract frontend app
 
-Contribution: 2021-11-17 19:01
+PiggyBank is a custom Smart Contract on the Elrond blockchain. If you want to know more about preparing and deploying such a Smart Contract, check out separate [blog post](https://www.julian.io/articles/elrond-smart-contracts.html). Here we have a frontend app for it. 
 
-Contribution: 2021-11-17 18:02
+- [Smart Contract repo](https://github.com/juliancwirko/elrond-simple-sc)
 
-Contribution: 2021-11-17 15:03
+#### Working instance
 
-Contribution: 2021-11-17 16:04
+- [https://elven-piggy-bank.netlify.app/](https://elven-piggy-bank.netlify.app/)
 
-Contribution: 2021-11-17 15:05
+### Articles
 
-Contribution: 2021-11-18 17:00
+- [Simple user interface for Elrond Smart Contract](https://www.julian.io/articles/elrond-dapp-ui.html)
 
-Contribution: 2021-11-18 19:01
+### Walkthrough videos
 
-Contribution: 2021-11-18 16:02
+- [Elrond Smart Contracts - interacting using erdpy](https://youtu.be/mIsNI7ZxQRM)
+- [Elrond Smart Contracts - interacting using simple front-end app](https://youtu.be/Sjpj7Btasgs)
+- [Elrond Smart Contracts - interacting using the Maiar DeFi Wallet browser extension](https://youtu.be/MpPbi6xkBQs)
 
-Contribution: 2021-11-18 15:03
+Remember that the devnet will be restarted from time to time. It could mean that preconfigured PiggyBank Smart Contract will stop working. I'll try to redeploy a new one in such a case, but this won't be automatic.
 
-Contribution: 2021-11-18 19:04
+**This app is for learning and demonstration purposes only.**
 
-Contribution: 2021-11-18 17:05
+#### How to start with local instance
 
-Contribution: 2021-11-18 16:06
+1. Clone the repo
+1. Remember to configure the .env file. Review and copy `.env.example` into `.env.local`
+2. In `.env.local` configure your PiggyBank Smart Contract address. (Check how to deploy your custom one [here](https://www.julian.io/articles/elrond-smart-contracts.html). You can also use the one from this repo (of course if the devnet isn't restarted yet)).
+3. You would also need some xEGLD on the devnet. You should be able to use a web wallet's built-in faucet. Or there is also one for the devnet [here](https://r3d4.fr/elrond/devnet/).
+ 
+Generated using [CRA elrond-dapp template and Elrond tools](https://www.npmjs.com/package/cra-template-elrond-dapp)
 
-Contribution: 2021-11-18 18:07
+ #### In case of questions contact me: 
 
-Contribution: 2021-11-24 15:00
-
-Contribution: 2021-11-24 18:01
-
-Contribution: 2021-11-24 18:02
-
-Contribution: 2021-11-24 15:03
-
-Contribution: 2021-11-24 18:04
-
-Contribution: 2021-11-24 19:05
-
-Contribution: 2021-11-24 15:06
-
-Contribution: 2021-11-24 16:07
-
-Contribution: 2021-11-24 16:08
-
-Contribution: 2021-11-25 18:00
-
-Contribution: 2021-11-25 16:01
-
-Contribution: 2021-11-25 18:02
-
-Contribution: 2021-11-25 18:03
-
-Contribution: 2021-11-25 17:04
-
-Contribution: 2021-11-26 19:00
-
-Contribution: 2021-11-26 15:01
-
-Contribution: 2021-11-26 16:02
-
-Contribution: 2021-11-26 18:03
-
-Contribution: 2021-11-26 19:04
-
-Contribution: 2021-11-27 19:00
-
-Contribution: 2021-11-27 15:01
-
-Contribution: 2021-11-27 16:02
-
-Contribution: 2021-11-27 19:03
-
-Contribution: 2021-11-27 17:04
-
-Contribution: 2021-11-27 17:05
-
-Contribution: 2021-11-27 18:06
-
-Contribution: 2021-11-27 18:07
-
-Contribution: 2021-11-27 17:08
-
-Contribution: 2021-11-27 17:09
-
-Contribution: 2021-11-28 16:00
-
-Contribution: 2021-11-28 16:01
-
-Contribution: 2021-11-28 17:02
-
-Contribution: 2021-11-28 17:03
-
-Contribution: 2021-11-28 15:04
-
-Contribution: 2021-11-28 16:05
-
-Contribution: 2021-11-28 15:06
-
-Contribution: 2021-11-28 18:07
-
-Contribution: 2021-11-30 16:00
-
-Contribution: 2021-11-30 16:01
-
-Contribution: 2021-11-30 15:02
-
-Contribution: 2021-11-30 16:03
-
-Contribution: 2021-11-30 16:04
-
-Contribution: 2021-11-30 18:05
-
-Contribution: 2021-11-30 19:06
-
-Contribution: 2021-12-02 16:00
-
-Contribution: 2021-12-03 19:00
-
-Contribution: 2021-12-03 18:01
-
-Contribution: 2021-12-03 17:02
-
-Contribution: 2021-12-03 18:03
-
-Contribution: 2021-12-03 17:04
-
-Contribution: 2021-12-03 17:05
-
-Contribution: 2021-12-03 15:06
-
-Contribution: 2021-12-03 16:07
-
-Contribution: 2021-12-04 18:00
-
-Contribution: 2021-12-04 17:01
-
-Contribution: 2021-12-04 17:02
-
-Contribution: 2021-12-04 15:03
-
+ - [Twitter](https://twitter.com/JulianCwirko)
+ - [GitHub](https://github.com/juliancwirko)
